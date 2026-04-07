@@ -40,7 +40,7 @@ export default function Dashboard() {
   }, []);
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-gray-900 to-black p-6 text-white">
+    <div className="min-h-screen bg-linear-to-br from-gray-900 to-black p-6 text-white">
       <Navbar />
 
       <h1 className="text-3xl font-bold mb-6">Dashboard</h1>

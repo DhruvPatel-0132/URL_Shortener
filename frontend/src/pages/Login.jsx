@@ -17,7 +17,7 @@ export default function Login() {
   };
 
   return (
-    <div className="h-screen flex items-center justify-center bg-gradient-to-br from-gray-900 to-black">
+    <div className="h-screen flex items-center justify-center bg-linear-to-br from-gray-900 to-black">
       <div className="bg-gray-800/50 backdrop-blur-md p-8 rounded-xl w-96 shadow-lg border border-gray-700">
         <h2 className="text-white text-2xl mb-6 text-center font-bold">
           Login
